@@ -4,7 +4,12 @@ description: 'This is a file that contains information regarding renaissance to 
   europe, 1300-1800 lecture slides -encyclopedie II.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/21h-141-renaissance-to-revolution-europe-1300-1800-spring-2015/76a38146d0aa3a6fcb9534ad73156bb8_MIT21H_141S15_Encycloped2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Slides
+parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Encyclopedie II'
+type: OCWFile
 uid: 76a38146-d0aa-3a6f-cb95-34ad73156bb8
 ---
