@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Radical Reformation'
-type: OCWFile
 uid: 738232e0-b27d-04fe-cd81-a6247f3f9654
 ---

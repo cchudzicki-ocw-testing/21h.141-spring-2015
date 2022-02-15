@@ -10,6 +10,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Assignments - Student Example 3'
-type: OCWFile
 uid: c37de404-78ec-9f51-5061-7d26408b3f3d
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Reform of Time'
-type: OCWFile
 uid: 404b68e9-7263-86a7-a93d-0674c804a644
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Charles I'
-type: OCWFile
 uid: 9cd1f452-5a83-c536-74e1-aa946b2e9752
 ---

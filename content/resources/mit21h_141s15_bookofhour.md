@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Book of Hours'
-type: OCWFile
 uid: 203a7f81-0a12-292c-d87d-fefe74a72621
 ---

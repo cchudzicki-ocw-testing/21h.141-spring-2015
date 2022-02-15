@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Encyclopedie II'
-type: OCWFile
 uid: 76a38146-d0aa-3a6f-cb95-34ad73156bb8
 ---

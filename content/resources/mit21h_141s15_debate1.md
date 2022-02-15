@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Assignments - Debate 1'
-type: OCWFile
 uid: 89ddb279-d773-9219-74d1-70b863941fc5
 ---

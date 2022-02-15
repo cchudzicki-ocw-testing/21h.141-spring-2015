@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Assignments - Editing Suggestions'
-type: OCWFile
 uid: 2517fba1-ccf1-2e2f-a113-5b2e62dea4e9
 ---

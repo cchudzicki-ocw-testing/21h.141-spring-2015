@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Newton'
-type: OCWFile
 uid: f84bd39e-adc4-faaa-60c7-46225e42dacf
 ---

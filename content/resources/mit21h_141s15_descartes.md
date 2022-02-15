@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Descartes'
-type: OCWFile
 uid: b8d42b09-98fc-12e6-63f0-42a4e8cbe2c3
 ---

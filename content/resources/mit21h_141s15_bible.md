@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - The Bible In Print'
-type: OCWFile
 uid: 8beb0c7e-f808-415d-b1f7-c5657b688d66
 ---

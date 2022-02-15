@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Nuremberg Chronicle'
-type: OCWFile
 uid: bbe7bd1d-8fad-a389-08e8-d2afb1c7caad
 ---

@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Assignments - Long Essay'
-type: OCWFile
 uid: 2af20586-f3b4-dc3b-cabe-2bf1c98e5bae
 ---

@@ -10,6 +10,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: '21H.141S15 Renaissance To Revolution: Lecture Slides - Christian Humanism'
-type: OCWFile
 uid: 8a8806a8-ceae-ac76-1aaa-cd79810618bf
 ---
