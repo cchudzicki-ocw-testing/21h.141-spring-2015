@@ -101,12 +101,12 @@ One 2500 Word Paper
 
 Each assignment will be weighted as shown in the table above in the calculation of the final grade, although these calculations will also take into account improved performance during the course of the semester.
 
-For further detail, please see the {{< resource_link b8e6ad3a-6045-257c-c3f6-df01da54c3f0 "Assignments" >}} section.
+For further detail, please see the {{% resource_link b8e6ad3a-6045-257c-c3f6-df01da54c3f0 "Assignments" %}} section.
 
 Required Reading
 ----------------
 
-All readings are listed in the table in the {{< resource_link 245ad9ac-38c1-c126-924f-3ba1538959b0 "Readings" >}} section.
+All readings are listed in the table in the {{% resource_link 245ad9ac-38c1-c126-924f-3ba1538959b0 "Readings" %}} section.
 
 If you want more background reading on this period in European history, consult:
 
