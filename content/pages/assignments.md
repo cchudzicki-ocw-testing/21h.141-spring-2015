@@ -1,13 +1,13 @@
 ---
 content_type: page
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: b8e6ad3a-6045-257c-c3f6-df01da54c3f0
 ---
-Debates
--------
+## Debates
 
 Each student will participate in an in-class debate, during either Session 19 or Session 20.
 
@@ -15,8 +15,7 @@ Each student will participate in an in-class debate, during either Session 19 or
 
 {{% resource_link 859721eb-eef0-64b8-5c18-03797fc13d91 "Second Debate Resolution & Format (PDF)" %}}
 
-Papers
-------
+## Papers
 
 Students will write two 1250 word short papers, due during Session 5 and Session 24. A mandatory 1250 word rewrite of the first short paper will be due during Session 9. Students will write one 2500 word long essay assignment, due during Session 18.
 
@@ -30,12 +29,11 @@ Students will write two 1250 word short papers, due during Session 5 and Session
 
 {{% resource_link 2517fba1-ccf1-2e2f-a113-5b2e62dea4e9 "Editing Suggestions (PDF)" %}}
 
-Student Examples
-----------------
+## Student Examples
 
 The long essays below appear courtesy of MIT students and are anonymous upon request.
 
-{{% resource_link b9199b3a-b4b0-7462-6eb8-ef4e36d46384 "\"Jean Leurechon's _Mathematical Recreations_ in the Context of Early 17{{< sup \"th\" #}} Century Europe.\" (PDF)" %}}
+{{% resource_link b9199b3a-b4b0-7462-6eb8-ef4e36d46384 "\"Jean Leurechon's Mathematical Recreations in the Context of Early 17¹⁷ Century Europe.\" (PDF)" %}}
 
 {{% resource_link a5856154-246f-a804-5189-003183234581 "\"Natural Enthusiastick Ecstasies and Revelations: Casaubon's Humanistic Attack on the 'Revelations' of the Sectaries.\" (PDF)" %}}
 
