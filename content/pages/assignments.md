@@ -33,7 +33,7 @@ Students will write two 1250 word short papers, due during Session 5 and Session
 
 The long essays below appear courtesy of MIT students and are anonymous upon request.
 
-{{% resource_link b9199b3a-b4b0-7462-6eb8-ef4e36d46384 "\"Jean Leurechon's Mathematical Recreations in the Context of Early 17¹⁷ Century Europe.\" (PDF)" %}}
+{{% resource_link b9199b3a-b4b0-7462-6eb8-ef4e36d46384 "\"Jean Leurechon's Mathematical Recreations in the Context of Early 17th Century Europe.\" (PDF)" %}}
 
 {{% resource_link a5856154-246f-a804-5189-003183234581 "\"Natural Enthusiastick Ecstasies and Revelations: Casaubon's Humanistic Attack on the 'Revelations' of the Sectaries.\" (PDF)" %}}
 
