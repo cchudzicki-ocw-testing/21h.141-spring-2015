@@ -17,7 +17,7 @@ uid: 245ad9ac-38c1-c126-924f-3ba1538959b0
 
 \[J\] = Jacob, Margaret C., ed. *The Scientific Revolution: A Brief History with Documents*. Bedford / St. Martin's, 2009. ISBN: 9780312653491.
 
-\[R\] = Ross, James Bruce, and Mary Martin McLaughlin, eds.  The Portable Renaissance Reade\_r. Penguin Books, 1977. ISBN: 9780140150612.
+\[R\] = Ross, James Bruce, and Mary Martin McLaughlin, eds.  The Portable Renaissance Reader. Penguin Books, 1977. ISBN: 9780140150612.
 
 \[S\] = Seaver, Paul S. *Wallington's World: A Puritan Artisan in Seventeenth-Century London*. Stanford University Press, 1985. ISBN: 9780416405309.
 
