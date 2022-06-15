@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information on course textbooks and the schedule
+  of readings by session and topic. Links are provided to some readings where available.
 draft: false
 learning_resource_types:
 - Readings

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the course assignments and examples
+  of student work.
 draft: false
 learning_resource_types:
 - Assignments
